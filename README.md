@@ -18,7 +18,7 @@ Thrilled to share my new project—a Flappy Bird Game built entirely with HTML, 
 ➡️ Open-source and fully customizable for developers 💻
 ➡️ Responsive design to play on any device 📱
 
-💡 Check out the project on GitHub: (Add your GitHub link here)
+💡 Check out the project on GitHub:
 
 Looking forward to your feedback and ideas! Let’s build and play together! 🚀
 
